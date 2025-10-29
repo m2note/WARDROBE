@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SnazzyHeadshot",
+  "description": "An AI-powered application to effortlessly transform your photos into professional headshots using the Gemini API. Features include automatic enhancement, background replacement, smart face refinement, and studio lighting adjustments.",
+  "requestFramePermissions": []
+}
